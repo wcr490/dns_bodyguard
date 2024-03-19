@@ -1,0 +1,1 @@
+/home/rm/work/c/libbpf/examples/c/dns_bodyguard/target/release/xdp: /home/rm/work/c/libbpf/examples/c/dns_bodyguard/build.rs /home/rm/work/c/libbpf/examples/c/dns_bodyguard/src/bpf/xdppass.bpf.c /home/rm/work/c/libbpf/examples/c/dns_bodyguard/src/main.rs /home/rm/work/c/libbpf/examples/c/dns_bodyguard/target/release/build/xdp-36a202ca0ffef707/out/xdppass.skel.rs
